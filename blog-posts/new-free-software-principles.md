@@ -1,6 +1,6 @@
 Time to Upgrade Stallman’s Outdated Free Software Principles
 ==============
-***Version 0.0.0***
+***Version 0.0.1***
 
 Is it exaggerated to say that for many engineers, Richard Stallman is nothing short of legendary? Perhaps not. Stallman, a titan in the software world, has etched an indelible mark on our industry. His unwavering commitment to the free software movement isn't just admirable; it's transformative.
 
