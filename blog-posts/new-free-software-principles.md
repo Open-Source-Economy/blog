@@ -67,7 +67,9 @@ Let's shift our focus to the third freedom. It's important to note that YouTube'
 
 This aspect carries significant weight. The concern with YouTube lies in its impact on democracy, affecting not several individuals but everyone. In order to make YouTube more democratic, convincing others to embrace a modified version becomes imperative.
 
-However, consider the challenge: many have attempted to create YouTube alternatives, only to confront the formidable "network effect." With everyone entrenched on YouTube, including creators who derive their livelihood from it, persuading users to switch platforms becomes a monumental business endeavor. Without substantial backing from venture capital, it appears nearly insurmountable.
+However, consider the challenge: many have attempted to create YouTube alternatives, only to confront the formidable "network effect." With everyone entrenched on YouTube, including creators who derive their livelihood from it, persuading users to switch platforms becomes a monumental business endeavor. Without substantial backing from venture capital, it appears nearly insurmountable for creators.
+
+For consumers, on the other hand, there are several "alternative frontends" (e.g. [Piped](https://docs.piped.video/) and [Invidious](https://invidious.io/)) that mirror their video data from YouTube, so the same videos can be consumed without the need to accessing YouTube directly. 
 
 ---
 
