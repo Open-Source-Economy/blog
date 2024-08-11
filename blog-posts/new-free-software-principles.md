@@ -1,18 +1,18 @@
-Time to Upgrade Stallman’s Outdated Free Software Principles
+Time to Upgrade Free Software’s Outdated Free Software Principles
 ==============
 ***Version 0.0.0***
 
-Is it exaggerated to say that for many engineers, Richard Stallman is nothing short of legendary? Perhaps not. Stallman, a titan in the software world, has etched an indelible mark on our industry. His unwavering commitment to the free software movement isn't just admirable; it's transformative.
+Is it exaggerated to say that the Free Software movement is nothing short of legendary for many engineers? Perhaps not. The Free Software Foundation, a titan in the software world, has etched an indelible mark on our industry. Their commitment isn't just admirable; it's transformative.
 
-However, as revered as these principles are, they were conceived in the 1980s—a different technological era. Today, they call for a refresh, an update that aligns with our rapidly evolving digital landscape. To honor Stallman's vision, it's time we adapt these principles to the realities of our modern world.
+However, as revered as these principles are, they were conceived in the 1980s—a different technological era. Today, they call for a refresh, an update that aligns with our rapidly evolving digital landscape. To honor Free Software's vision, it's time we adapt these principles to the realities of our modern world.
 
 Before diving in, let's remember: this article is merely a starting point. It's an open invitation to the community. Your insights, debates, and proposed amendments are not just welcome but essential. Feel free to comment, discuss, and suggest modifications on our GitHub.
 
-Let’s delve in! To start, what are Stallman's four essential freedoms?
+Let’s delve in! To start, what are Free Software's four essential freedoms?
 
 --- 
 
-# Stallman’s Four Essential Freedoms
+# Free Software’s Four Essential Freedoms
 
 0. Freedom to run the program.
 1. Freedom to study and change the program in source code form.
@@ -26,9 +26,9 @@ Let’s delve in! To start, what are Stallman's four essential freedoms?
 
 # The YouTube Problem
 
-Now, let's take a contemporary example that is a pivotal piece of software in our lives: a social media platform. For the purpose of this discourse, we’ll use YouTube, a global platform that is widely used, as our example. However, the insights and concerns addressed here can totally be applied to TikTok, Facebook, Instagram, and more.
+Now, let's take a contemporary example that is a pivotal piece of software in our lives: a social media platform. For the purpose of this discourse, we’ll use YouTube, a widely used global platform, as our example. However, the insights and concerns addressed here can totally be applied to TikTok, Facebook, Instagram, and more.
 
-As Stallman says: 
+As the Free Software foundation says: 
 [“With every program, there are 2 possibilities: either the user controls the problem, or the program controls the user”.](https://www.youtube.com/watch?v=n9YDz-Iwgyw&t=420s)
 
 In the case of YouTube, their stance in this dichotomy, unbeknownst to many, is that the program controls the user.
@@ -43,7 +43,7 @@ Its recommendation algorithm doesn't just suggest videos; it subtly, yet signifi
 
 # Applying Free Software Principles to YouTube
 
-What if Google, the parent company of YouTube, recognizes the democratic challenges presented by YouTube, and decides to fully adopt Stallman’s principles of free software? Would YouTube continue to be in control like it is today? Could the issues we've discussed find a resolution?
+What if Google, the parent company of YouTube, recognizes the democratic challenges presented by YouTube, and decides to fully adopt Free Software’s principles of free software? Would YouTube continue to be in control like it is today? Could the issues we've discussed find a resolution?
 
 ## Freedom 0: to Run the Program
 
@@ -73,7 +73,7 @@ However, consider the challenge: many have attempted to create YouTube alternati
 
 # Pioneering New Principles for True Freedom
 
-Given the limitations of the original four freedoms in today's landscape, it's time to explore innovative ways to extend and adapt Stallman's vision. What principles must emerge to empower individuals to experience true freedom when using YouTube? What new frontiers of free software principles can navigate the complexities of the contemporary digital landscape?
+Given the limitations of the original four freedoms in today's landscape, it's time to explore innovative ways to extend and adapt the Free Software's vision. What principles must emerge to empower individuals to experience true freedom when using YouTube? What new frontiers of free software principles can navigate the complexities of the contemporary digital landscape?
 
 ## The Freedom 0: to Study and Change the Source Code, A Cornerstone
 
@@ -97,7 +97,7 @@ This best-effort approach is about recognizing the fluidity and diversity of the
 
 ## The Freedom 2: Community Control
 
-With this principle, we are beginning to diverge significantly from Stallman's vision. Stallman primarily focused on code and what it could achieve. However, as we've seen with examples like YouTube, merely discussing code is insufficient because it excludes a vast majority of users of that code. The problem we encounter with YouTube is a collective one.
+With this principle, we are beginning to diverge significantly from Free Software's vision. Free Software primarily focused on code and what it could achieve. However, as we've seen with examples like YouTube, merely discussing code is insufficient because it excludes a vast majority of users of that code. The problem we encounter with YouTube is a collective one.
 
 If we intend to ensure that every user is not controlled by YouTube, the entire YouTube platform should respect the freedom of all its users. This marks the commencement of a new era in the free software movement. So, how can we maximize the freedom of the YouTube community, encompassing viewers, YouTube creators, employees, customers, and so on? We're talking about millions of people here, and the most effective approach we've discovered thus far is a democratic system.
 
@@ -107,7 +107,7 @@ If you would like to learn more about this topic or enter the discussion, [join 
 
 ## The Freedom 3: Decentralized Competitive Business Model
 
-Noble intentions alone will not be enough. If YouTube begins to respect the freedom of its users but starts losing income as a result, it may become less competitive and gradually be replaced by another platform that may not prioritize user freedom. People may shift to this new platform, and the fight for freedom could be lost.
+Noble intentions alone will not be enough. If YouTube begins to respect the freedom of its users but starts losing income. As a result, it may become less competitive and gradually be replaced by another platform that may not prioritize user freedom. People may shift to this new platform, and the fight for freedom could be lost.
 
 To challenge and compete with this proprietary model, one must generate comparable revenues and attract similar levels of investment. If you follow this logic, revenue is also an integral part of the product. Therefore, revenues should also be under community control.
 
